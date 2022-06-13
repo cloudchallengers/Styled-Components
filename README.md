@@ -12,6 +12,6 @@ This repo is dedicated to practising Styled Components with React 18
 
 If you would like to contribute please raise the PR.
 
-# Reach Me :woman:
+# Reach Me :man:
 
 You can email me at email.ashishgoyal@gmail.com or reach me on twitter @ashishgoyl
